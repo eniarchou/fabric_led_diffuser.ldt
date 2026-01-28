@@ -8,7 +8,7 @@ This repository provides a **Light Distribution Table (LDT)** file generated fro
   The LDT file represents the experimentally measured angular emission of a textile-covered LED. It quantifies how the fabric diffuser redistributes the emitted optical power across angles, allowing researchers and engineers to model wearable LED transmitters in OCC systems.
 
 - **Content:**  
-  The file contains angular-resolved intensity values for the combined RGB channels of the LED. Each entry corresponds to a specific horizontal angle in the range \([-90^\circ, 90^\circ]\), with intensity normalized to the maximum measured value.  
+  The file contains angular-resolved intensity values for the combined RGB channels of the LED. Each entry corresponds to a specific horizontal angle in the range, with intensity normalized to the maximum measured value.  
 
 - **Format:**  
   - Standard LDT format compatible with lighting simulation and ray-tracing tools.  
